@@ -78,7 +78,7 @@ header{ /* Observe que ele deu apenas height no header*/
     height: 46px;
     background-color: #1b2531;
     border: 1px solid #384459;
-    border-radius: 20px;
+    border-radius: 5px;
     padding: 0 0px; 
     /* Padding buga*/
     color: #9aaabe;
